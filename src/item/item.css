@@ -1,0 +1,33 @@
+/* .outerbox{
+    /* border: 1px solid black; */
+   /* height:320px ;
+   width: 200px;
+   margin: 15px;
+   border-radius: 5px;
+   box-shadow: 0px 3px 3px 0px   black;
+   position: relative;
+}
+.innerbox{
+    position: absolute;
+    
+    margin: 10px;
+}
+.innerbox img{
+    height: 200px;
+    width: 180px;
+   
+}
+.price{
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+.price > *{
+    margin: 5px;
+}
+.link1{
+    
+    color: black;
+    text-decoration: none;
+} */ 
